@@ -1,0 +1,15 @@
+{
+  "name": "just-joking-about-this-api",
+  "version": "1.0.0",
+  "description": "an api that serves jokes. jokes can also be added/removed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
